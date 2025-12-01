@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "デマデーモン",
+  "base_artist": "CULUA",
+  "createdAt": "2025-12-01T02:13:49.355787Z",
+  "candidates": [
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "デマデーモン",
+      "artist": "CULUA",
+      "has_synced": false,
+      "path": "select/pl_デマデーモン_CULUA.txt"
+    }
+  ]
+}
